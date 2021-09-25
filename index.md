@@ -21,12 +21,16 @@ my fav languages
 - java
 - c++
 
-my skills in python
+# my skills in python
 1. opencv
 2. Sklearn
 3. Numpy
 
-my Task list
-[ ] homework
-[X] go to class
+# my Task list
+- [ ] homework
+- [X] go to class
+
+# my image
+![I found this image](https://www.sdmts.com/sites/default/files/routemap2018.png)
+
 
