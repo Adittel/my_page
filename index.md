@@ -3,7 +3,8 @@
 ## This is my page
 **This is for the cse 110 project**
 
- ~~ test~~
+ ~~ test ~~
+ *italic*
  >lets go?
 
  ``` this is some code;```
